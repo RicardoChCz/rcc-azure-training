@@ -1,0 +1,23 @@
+{
+	"name": "pipeline_test",
+	"properties": {
+		"description": "Pipeline_test",
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"folder": {
+			"name": "adf_rcc_test"
+		},
+		"annotations": [],
+		"lastPublishTime": "2021-09-22T18:42:55Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "rcc-1150505j-data-factory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eba451a2-2a10-415f-a417-1f4b70ee12ed",
+		"tenantId": "4fb63e68-ac46-46c9-a0d5-b68aebcaca1f"
+	}
+}
